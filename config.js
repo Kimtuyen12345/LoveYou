@@ -5,7 +5,7 @@ const CONFIG = {
     Anh không giỏi văn thơ
     Giống như một kẻ khờ
     Anh yêu em trong từng nhịp thở`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: '^^HiHiHi^^',
     title: 'Mình yêu nhau đi cho thêm bận 🥰',
     desc: 'Đừng thoát, hãy trả lời tôi !!!',
     btnYes: 'Yêu luôn <33',
